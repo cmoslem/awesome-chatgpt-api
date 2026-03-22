@@ -196,8 +196,23 @@ Curated by [Reorx](https://reorx.com), you are welcome to suggest new projects v
 
     A GPT3.5 web page that is highly lightweight and can be deployed statically without requiring a server. Only HTML, CSS, and jQuery is used. Source code: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)
 
+- [event-driven-outbox](https://github.com/cmoslem/event-driven-outbox)
+
+    Transactional Outbox pattern implementation guaranteeing exactly-once delivery from PostgreSQL to Kafka. Built with Java and Spring Boot.
+
+- [terraform-bedrock-rag](https://github.com/cmoslem/terraform-bedrock-rag)
+
+    A production-ready RAG chatbot on AWS Bedrock Knowledge Bases with Aurora Serverless v2 (pg_vector) and Streamlit UI, fully deployed with Terraform.
+
+- [open-webui-GCP](https://github.com/cmoslem/open-webui-GCP)
+
+    Self-hosted LLM WebUI deployed on Google Cloud Platform.
+
 
 ### Articles
 
 - [I got early access to ChatGPT API and then pushed it to it’s limits. Here’s what you need to know. — Buildt](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)
 - [Thread: Advantages of ChatGPT API compared to ChatGPT](https://twitter.com/novoreorx/status/1631250035852861440)
+- [Kafka Retry Done Right: The Day I Chose a Simpler Fix Over @RetryableTopic](https://medium.com/@cmoslem/kafka-retry-done-right-the-day-i-chose-a-simpler-fix-over-retryabletopic-c033b065ac0d)
+- [What I Learned Deploying My First RAG System on AWS Bedrock](https://medium.com/@cmoslem/what-i-learned-deploying-my-first-rag-system-on-aws-bedrock-b90eee9a2816)
+- [ECS, Lambda, or EC2? How Hexagonal Architecture Made the Choice Irrelevant](https://medium.com/@cmoslem/ecs-lambda-or-ec2-how-hexagonal-architecture-made-the-choice-irrelevant-e75d921cc5c4)
